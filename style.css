@@ -1,0 +1,252 @@
+body{
+    margin: 0px;
+
+}
+.nav{
+    padding: 10px;
+    height: 25px;
+    background-color: rgb(35, 34, 34);  
+ 
+}
+.align{
+    float: right;
+    padding-right: 20px;
+    text-decoration: none;
+    color: white;
+    margin-top: 1px;
+    
+}
+.start{
+    font-size: 18px;
+    color: white;
+    float: left;
+    margin-top: 2px;
+}
+.relative{
+  margin: 25px 25px 25px 25px;
+    position: relative;
+    border: 1px solid white;
+    height: 350px;
+    text-align: center;
+    background-color: rgb(239, 247, 244);
+}
+#welcome{
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+}
+#p1{
+    margin-top: -30px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.btn1{
+    border-style: none;
+    background-color: rgb(39, 39, 205);
+    border: 1px solid rgb(39, 39, 205);
+    height: 30px;
+    border-radius: 3px;
+    color: white;
+}
+
+.relative1{
+    position: relative;
+    border: 1px solid white;
+    height: 500px;
+    margin: 30px 25px 10px 25px;
+    
+
+
+}
+.absolute1{
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(239, 247, 244);
+    top: 30px;
+    width: 400px;
+    height: 150px;
+}
+#img1{
+        
+    border: 1px solid blue;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 2px;
+    font-size: 35px;
+    color: white;
+    margin-top: 5px;
+}
+#p2{
+    font-size: 19px;
+    font-weight: bold;
+}
+#icon1{
+    margin-top: -30px;
+
+}
+
+.absolute2{
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(239, 247, 244);
+    left: 530px;
+    width: 400px;
+    height: 150px;
+    top: -2px;
+}
+#img2{
+        
+    border: 1px solid blue;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 2px;
+    font-size: 35px;
+    color: white;
+    margin-top: 5px;
+}
+#p3{
+    font-size: 19px;
+    font-weight: bold;
+}
+#icon2{
+    margin-top: -30px;
+
+}
+
+.absolute3{
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(239, 247, 244);
+    left: 533px;
+    width: 400px;
+    height: 150px;
+    top: -1px;
+}
+#img3{
+        
+    border: 1px solid blue;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 2px;
+    font-size: 35px;
+    color: white;
+    margin-top: 5px;
+}
+#p4{
+    font-size: 19px;
+    font-weight: bold;
+}
+#icon3{
+    margin-top: -30px;
+
+}
+
+.absolute4{
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(239, 247, 244);
+    right: 1064px;
+    width: 400px;
+    height: 150px;
+    top: 230px;
+}
+#img4{
+        
+    border: 1px solid blue;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 2px;
+    font-size: 35px;
+    color: white;
+    margin-top: 5px;
+}
+#p5{
+    font-size: 19px;
+    font-weight: bold;
+}
+#icon4{
+    margin-top: -30px;
+
+}
+.absolute5{
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(239, 247, 244);
+    left: 530px;
+    width: 400px;
+    height: 150px;
+    top: -2px;
+}
+#img5{
+        
+    border: 1px solid blue;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 2px;
+    font-size: 35px;
+    color: white;
+    margin-top: 5px;
+}
+#p6{
+    font-size: 19px;
+    font-weight: bold;
+}
+#icon5{
+    margin-top: -30px;
+
+}
+
+.absolute6{
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(239, 247, 244);
+    left: 533px;
+    width: 400px;
+    height: 150px;
+    top: -2px;
+}
+#img6{
+        
+    border: 1px solid blue;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 2px;
+    font-size: 35px;
+    color: white;
+    margin-top: 5px;
+}
+#p7{
+    font-size: 19px;
+    font-weight: bold;
+}
+#icon6{
+    margin-top: -30px;
+
+}
+
+.footer{
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:rgb(35, 34, 34) ;
+    width: 1521px;
+    margin-left: -560px;
+}
+#p8{
+    color:white;
+}
+#icon7{
+    color:white;
+}
